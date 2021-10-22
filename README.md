@@ -1,1 +1,1 @@
-# parsiql-hackathon
+# parsiq-hackathon
